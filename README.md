@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Spring boot and JPA.**
 - 📫 How to reach me **kimkc1129@gmail.com**
-- 👨‍💻 All of my projects are a my pinned.
+- 👨‍💻 All of my projects are a **my pinned.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
