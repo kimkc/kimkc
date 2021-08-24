@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kimkc&label=Profile%20views&color=0e75b6&style=flat" alt="kimkc" /> </p>
 
-![header](https://capsule-render.vercel.app/api?type=soft&text=Backend%20Developer&color=auto)
+![header](https://capsule-render.vercel.app/api?type=soft&text=Backend%20Developer&color=auto&animation=twinkling)
 <h1 align="center">Hi 👋, I'm Kwangchae</h1>
 
 - 🌱 I’m currently learning `Java`, `Spring boot` and `JPA`.
