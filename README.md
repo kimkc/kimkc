@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimkc&label=Profile%20views&color=0e75b6&style=flat" alt="kimkc" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring boot and JPA.**
+- 🌱 I’m currently learning `Java`, `Spring boot` and `JPA`.
 - 📫 How to reach me **kimkc1129@gmail.com**
 - 👨‍💻 All of my projects are a **my pinned.**
 
