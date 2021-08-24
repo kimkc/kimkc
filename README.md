@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kwangchae</h1>
-<h3 align="center">A passionate backend developer.</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kimkc&label=Profile%20views&color=0e75b6&style=flat" alt="kimkc" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimkc&label=Profile%20views&color=0e75b6&style=flat" alt="kimkc" /> </p>
+![header](https://capsule-render.vercel.app/api?type=soft&text=Backend%20Developer&color=auto)
+<h1 align="center">Hi 👋, I'm Kwangchae</h1>
 
 - 🌱 I’m currently learning `Java`, `Spring boot` and `JPA`.
 - 📫 How to reach me **kimkc1129@gmail.com**
