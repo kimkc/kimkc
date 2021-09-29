@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&text=Backend%20Developer&color=auto&animation=twinkling)
 <h1 align="center">Hi 👋, I'm Kwangchae</h1>
 
-- 🌱 I’m currently learning `Java`, `Spring boot` and `JPA`.
+- 🌱 I’m currently learning `Java`, `Spring(boot)` and `JPA`.
 - 📫 How to reach me **kimkc1129@gmail.com**
 - 👨‍💻 All of my projects are a **my pinned.**
 
